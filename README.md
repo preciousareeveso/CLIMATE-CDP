@@ -1,4 +1,4 @@
-#**Overview:  Climate change hazards and adaptation action across CDP disclosing cities and regions in 2021**
+#**Overview:  Climate hazards and adaptation action across CDP disclosing cities and regions in 2021**
 
 ##**Background**
 
