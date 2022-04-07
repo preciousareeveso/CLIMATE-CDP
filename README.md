@@ -6,4 +6,4 @@ The Climate Disclosure Project (CDP) is an international non-profit organization
 
 Click [Notebook](https://github.com/preciousareeveso/CLIMATE-CDP/blob/20760f18b1bf5bb4877e5ebfd016f1dd0fb98d9d/Overview%20of%20Climate%20Hazards%20and%20Actions%20reported%20to%20CDP_CODE.ipynb) to access jupyternotebook with python code.
 
-Click [Tableau story](https://public.tableau.com/views/OverviewofclimatechangeimpactandclimateactionsacrossCDPdisclosingcitiesandregions_/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to access visualizatons based on cleaned data
+Click [Tableau story](https://public.tableau.com/views/OverviewofclimatechangeimpactandclimateactionsacrossCDPdisclosingcitiesandregions_/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to access visualizatons based on cleaned data.
